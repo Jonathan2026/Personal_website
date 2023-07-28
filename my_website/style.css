@@ -1,0 +1,16 @@
+body{
+    font-family:Helvetica;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+nav{
+    background-color: rgb(103, 118, 255);
+    padding: 15px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.item:hover{
+    background-color: rgb(192, 253, 253);
+    opacity: 0.5;
+}
